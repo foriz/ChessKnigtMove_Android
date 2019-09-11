@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChessKnightMoves</string>
+
+    <string name="moves_button_string">Find All Available Move Sequences</string>
+    <string name="max_moves_string">Select max number of moves: </string>
+    <string name="max_moves_default_string">3</string>
+</resources>
