@@ -11,3 +11,4 @@ Instructions:
 7) The white knight from position "B8" will initially move to the setted start position and then it will follow the selected move sequence.
 
 Demo:
+![alt text](https://github.com/foriz/ChessKnigtMove_Android/blob/master/demo.gif)
